@@ -1,0 +1,30 @@
+# Dependencies
+/node_modules
+
+# Output files
+/dist
+
+# Environment variables
+.env
+
+# IDE/Editor specific files
+.vscode
+.idea
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+/logs
+*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+
+# Testing
+/coverage
+/nyc_output
